@@ -1,2 +1,3 @@
-# google-homepage
-This a Project Odin Challange
+# Google Homepage
+
+This a Project Odin Challenge
